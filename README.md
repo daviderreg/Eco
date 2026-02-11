@@ -9,7 +9,7 @@
 - ⚡ RAG (Retrieval-Augmented Generation) per risposte contestuali
 
 <p align="center">
-<img src="https://github.com/daviderreg/Eco/blob/main/img/example_app_demo.gif?raw=true" alt="Eco Demo" width="300">
+<img src="https://github.com/daviderreg/Eco/blob/main/img/VideoDemo2.gif?raw=true" alt="Eco Demo" width="300">
 </p>
 
 ---
