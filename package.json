@@ -1,7 +1,7 @@
 {
-  "name": "react-native-voicebox-speech-rec",
-  "version": "1.0.4",
-  "description": "A powerful speech recognition library for React Native applications, enabling real-time speech-to-text transcription.",
+  "name": "eco",
+  "version": "1.0.0",
+  "description": "Eco: Advanced React Native speech recognition app with history, LLM, and RAG.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -14,11 +14,14 @@
     "speech",
     "speech-to-text",
     "android",
-    "ios"
+    "ios",
+    "LLM",
+    "RAG",
+    "history"
   ],
-  "repository": "https://github.com/sunboykenneth/react-native-voicebox-speech-rec",
-  "homepage": "https://github.com/sunboykenneth/react-native-voicebox-speech-rec",
-  "author": "Kenneth Hu <sunboykenneth@gmail.com>",
+  "repository": "https://github.com/daviderreg/Eco.git",
+  "homepage": "https://github.com/daviderreg/Eco",
+  "author": "Davide <daviderreggiani@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "eslint": "^8.49.0",
