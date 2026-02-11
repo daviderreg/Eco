@@ -1,6 +1,6 @@
 # Eco - VoiceBox Speech App
 
-**React Native Voicebox Speech Recognition**: Versione modificata e ampliata per integrare microfono, cronologia conversazioni e funzionalità avanzate con LLM e RAG. Basata sul progetto originale di Kenneth Hu.
+**React Native Voicebox Speech Recognition**: Versione modificata e ampliata per integrare microfono, cronologia conversazioni e funzionalità avanzate con LLM e RAG.
 
 - 📱 Cross-platform: iOS e Android
 - 🌐 Speech-to-text in tempo reale
