@@ -1,4 +1,4 @@
-# Eco - VoiceBox Speech App
+# Eco - LLM VoiceBox Speech App
 
 **React Native Voicebox Speech Recognition**: Versione modificata e ampliata per integrare microfono, cronologia conversazioni e funzionalità avanzate con LLM e RAG.
 
@@ -30,3 +30,6 @@
 ```bash
 npm install
 npx react-native run-android
+npm install react-native-tts
+npm install react-native-paper-menu
+ipconfig ipv4
